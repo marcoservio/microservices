@@ -1,0 +1,6 @@
+@GeekShopping.ChatGPT_HostAddress = http://localhost:5129
+
+GET {{GeekShopping.ChatGPT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
